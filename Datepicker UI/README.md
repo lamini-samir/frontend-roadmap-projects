@@ -7,4 +7,4 @@ A simple datepicker interface built using HTML and CSS.
 https://roadmap.sh/projects/datepicker-ui
 
 ### Screenshot
-![Datepicker Preview](Datepicker%20UI/screenshot.png)
+![Datepicker Preview](screenshot.png)
